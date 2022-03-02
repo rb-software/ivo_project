@@ -1,0 +1,21 @@
+Instruction.
+
+Required dependecies to install:
+$ sudo apt-get install libglfw3-dev
+
+A) General build commnads:
+ $ make clean
+ $ make
+
+B) Possible build targets:
+
+1. linux
+ $ make -C linux
+
+2. x32
+ $ make -C x32
+
+3. x64
+ $ make -C x64
+
+All copyrights belongs to Radosław Bednarczyk
