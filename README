@@ -1,6 +1,7 @@
 Instruction.
 
 Required dependecies to install:
+$ sudo apt-get install g++
 $ sudo apt-get install libglfw3-dev
 
 A) General build commnads:
